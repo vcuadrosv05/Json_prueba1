@@ -9,3 +9,25 @@
     "name": "typicode"
   }
 }
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cadena"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cadena"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
