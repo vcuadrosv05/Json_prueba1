@@ -1,13 +1,3 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 [
    {
       "Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "1023968291   Carlos    Molina      Contratista    Teusaquillo   23      Colombia\n"
@@ -22,4 +12,4 @@
       "Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "\n"
    }
 ]
-}
+
