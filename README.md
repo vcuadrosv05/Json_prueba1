@@ -1,3 +1,2 @@
 # Json_prueba1
 Aquí se realizara una prueba de texto para leer un diccionario en python 
-[{"Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "1023968291   Carlos    Molina      Contratista    Teusaquillo   23      Colombia\n"}, {"Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "28272832     Enrique   Delgado     Contratista    Palermo       45      Colombia \n"}, {"Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "34734832     eduado    Maldonado   Contratista    Kenedy        80      Colombia \n"}, {"Cedula       Nombre    Apellido    Contrato       Vivienda     edad     pais\n": "\n"}]
